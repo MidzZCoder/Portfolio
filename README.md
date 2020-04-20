@@ -1,6 +1,6 @@
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Midz's Protfolio 
+# Midz's Portfolio
 
 URL: https://midzzcoder.github.io/Portfolio/index.html
 
