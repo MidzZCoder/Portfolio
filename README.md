@@ -2,21 +2,21 @@
 
 # Midz's Protfolio 
 
-URL: https://midzzcoder.github.io/Porfolio/index.html
+URL: https://midzzcoder.github.io/Portfolio/index.html
 
 ## Screenshots
 
 ### Home Page
 
-<img src="https://github.com/MidzZCoder/Porfolio/blob/master/assets/img/screenshots/homepage.JPG" alt=" Midz Portfolio Landing Page screenshot"/>
+<img src="https://github.com/MidzZCoder/Portfolio/blob/master/assets/img/screenshots/homepage.JPG" alt=" Midz Portfolio Landing Page screenshot"/>
 
 ### About Page
 
-<img src="https://github.com/MidzZCoder/Porfolio/blob/master/assets/img/screenshots/about.JPG" alt=" Midz Portfolio About Page screenshot"/>
+<img src="https://github.com/MidzZCoder/Portfolio/blob/master/assets/img/screenshots/about.JPG" alt=" Midz Portfolio About Page screenshot"/>
 
 ### Contact Page
 
-<img src="https://github.com/MidzZCoder/Porfolio/blob/master/assets/img/screenshots/contact.JPG" alt=" Midz Portfolio Contact Page screenshot"/>
+<img src="https://github.com/MidzZCoder/Portfolio/blob/master/assets/img/screenshots/contact.JPG" alt=" Midz Portfolio Contact Page screenshot"/>
 
 
 ## Getting Started
@@ -30,14 +30,14 @@ Clone the repository or download and unpack the source code of the project. From
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md] for details on the code of conduct, and the process for submitting pull requests.
 
 ## Author
 - **Midz Sreenivasan** - [MidzZCoder](https://github.com/MidzZCoder)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt]
 
 ## Acknowledgments
 
